@@ -1,4 +1,6 @@
-
+body{
+    background-color: aliceblue;
+}
 #clockContainer{
     position: relative;
     height: 70vh;
